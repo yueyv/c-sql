@@ -5,4 +5,4 @@ sqlserve+visual
 C#
 
 包含图形化界面和数据库增删改查
-
+EASY-x
